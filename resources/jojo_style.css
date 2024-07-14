@@ -1,0 +1,82 @@
+*{
+    background-color: rgb(206, 44, 238);
+}
+
+/* styling for the images */
+.jonathan {
+    border: solid;
+    border-radius: 10px;
+    border-color: rgb(142, 0, 224);
+    width: 320px;
+    height: 711px;
+    margin: 10px;
+}
+.joseph {
+    border: solid;
+    border-radius: 10px;
+    border-color: rgb(142, 0, 224);
+    width: 500px;
+    height: 909px;
+    margin: 10px;
+}
+.jotaro {
+    border: solid;
+    border-radius: 10px;
+    border-color: rgb(142, 0, 224);
+    width: 392px;
+    height: 945px;
+    margin: 10px;
+}
+.josuke {
+    border: solid;
+    border-radius: 10px;
+    border-color: rgb(142, 0, 224);
+    width: 270px;
+    height: 642px;
+    margin: 10px;
+}
+.giorno {
+    border: solid;
+    border-radius: 10px;
+    border-color: rgb(142, 0, 224);
+    width: 202px;
+    height: 588px;
+    margin: 10px;
+}
+.jolyne {
+    border: solid;
+    border-radius: 10px;
+    border-color: rgb(142, 0, 224);
+    margin: 10px;
+}
+.dio {
+    border: solid;
+    border-radius: 10px;
+    border-color: rgb(142, 0, 224);
+    width: 258px;
+    height: 656px;
+    margin: 10px;
+}
+.joestar_fam {
+    width: 960px;
+    height: 540px;
+    margin: 0 auto;
+    display: flex;
+}
+
+/* styling for the text */
+.character {
+    display: flex;
+}
+
+th, td {
+    border-color: #b900a7;
+    border-style: solid;
+    resize: inherit;
+    padding: 8px;
+}
+table{
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}

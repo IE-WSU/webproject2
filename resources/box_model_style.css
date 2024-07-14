@@ -1,0 +1,53 @@
+/*
+  white: #FFFFFF
+  accent 1 color green: #3A8641
+  accent 2 color purple: #863A7F
+*/
+body{
+  background-color: #FFFFFF;
+}
+h1, h2, h3 {
+  color: #3A8641;
+}
+h1 {
+  text-align: center;
+}
+th, td {
+  border-color: #863A7F;
+  border-style: inset;
+  resize: inherit;
+  padding: 8px;
+}
+table{
+  border-collapse: collapse;
+}
+a {
+  color: #3A8641;
+  font-weight: bold;
+  text-decoration: none;
+  transition: all 400ms ease;
+}
+a:hover {
+  color: #863A7F;
+  transition: all 400ms ease;
+}
+.text-pg {
+  background-color: #3A8641;
+  color: #FFFFFF;
+  width: 500px;
+  padding: 8px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: #863A7F;
+  margin: 5px;
+}
+div{
+  background-color: #3A8641;
+  width: 646px;
+  padding: 8px;
+  border-style: double;
+  border-width: 5px;
+  border-color: #863A7F;
+  margin: 5px;
+  padding: 8px;
+}
